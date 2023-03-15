@@ -9,6 +9,8 @@ Collection of recent deep learning based compression works, e.g., image/video co
 * `CVPR 2021` Checkerboard Context Model for Efficient Learned Image Compression [[Paper]](https://ieeexplore.ieee.org/document/9577406) [[Code]](https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression)
 * `NIPS 2021` Lossy compression for lossless prediction [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/7535bbb91c8fde347ad861f293126633-Abstract.html) [[Code](github.com/YannDubs/lossyless)]
 * `NIPS 2022` High-fidelity generative image compression [[Paper]](https://proceedings.neurips.cc/paper/2020/file/8a50bae297807da9e97722a0b3fd8f27-Paper.pdf) [[Code](https://hific.github.io/)]
-
+* `ICLR 2023` Multi-Rate VAE: Train Once, Get the Full Rate-Distortion Curve [[Paper](https://openreview.net/forum?id=OJ8aSjCaMNK)]
+* `CVPR 2023` Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger [[Paper](https://arxiv.org/pdf/2302.14677.pdf)]
+* `CVPR 2023` Raw Image Reconstruction with Learned Compact Metadata [[Paper](https://arxiv.org/pdf/2302.12995.pdf)]
 ## Awesome Library
 * `CompressAI` [[Page/Code](https://github.com/InterDigitalInc/CompressAI)]
