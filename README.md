@@ -4,11 +4,14 @@ Collection of recent deep learning based compression works, e.g., image/video co
 ## Image Compression
 ### Survey
 * `Signal Processing 2022` Deep Architectures for Image Compression: A Critical Review [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168421003832)]
+* `TPAMI 2021` Learning end-to-end lossy image compression: A benchmark [[Paper](https://arxiv.org/pdf/2002.03711.pdf)]
+
 ### Methods
 * `CVPR 2023` Raw Image Reconstruction with Learned Compact Metadata [[Paper](https://arxiv.org/pdf/2302.12995.pdf)]
 * `ICLR 2023` Multi-Rate VAE: Train Once, Get the Full Rate-Distortion Curve [[Paper](https://openreview.net/forum?id=OJ8aSjCaMNK)]
 * `ECCV 2022` Optimizing Image Compression via Joint Learning with Denoising [[Paper](https://arxiv.org/pdf/2207.10869.pdf)]
 * `NIPS 2022` High-fidelity generative image compression [[Paper]](https://proceedings.neurips.cc/paper/2020/file/8a50bae297807da9e97722a0b3fd8f27-Paper.pdf) [[Code](https://hific.github.io/)]
+* `CVPR 2022` Neural data-dependent transform for learned image compression [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Neural_Data-Dependent_Transform_for_Learned_Image_Compression_CVPR_2022_paper.pdf)]
 * `NIPS 2021` Lossy compression for lossless prediction [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/7535bbb91c8fde347ad861f293126633-Abstract.html) [[Code](github.com/YannDubs/lossyless)]
 * `ICCV 2021` Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Variable-Rate_Deep_Image_Compression_Through_Spatially-Adaptive_Feature_Transform_ICCV_2021_paper.pdf)
 * `CVPR 2021` Checkerboard Context Model for Efficient Learned Image Compression [[Paper]](https://ieeexplore.ieee.org/document/9577406) [[Code]](https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression)
