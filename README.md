@@ -2,6 +2,9 @@
 Collection of recent deep learning based compression works, e.g., image/video compression. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis, feel free to contact me to add... :thumbsup:
 
 ## Image Compression
+### Survey
+* `SP 2022` Deep Architectures for Image Compression: A Critical Review [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168421003832)]
+### Methods
 * `CVPR 2023` Raw Image Reconstruction with Learned Compact Metadata [[Paper](https://arxiv.org/pdf/2302.12995.pdf)]
 * `ICLR 2023` Multi-Rate VAE: Train Once, Get the Full Rate-Distortion Curve [[Paper](https://openreview.net/forum?id=OJ8aSjCaMNK)]
 * `ECCV 2022` Optimizing Image Compression via Joint Learning with Denoising [[Paper](https://arxiv.org/pdf/2207.10869.pdf)]
@@ -9,6 +12,7 @@ Collection of recent deep learning based compression works, e.g., image/video co
 * `NIPS 2021` Lossy compression for lossless prediction [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/7535bbb91c8fde347ad861f293126633-Abstract.html) [[Code](github.com/YannDubs/lossyless)]
 * `CVPR 2021` Checkerboard Context Model for Efficient Learned Image Compression [[Paper]](https://ieeexplore.ieee.org/document/9577406) [[Code]](https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression)
 * `CVPR 2020` Learned Image Compression With Discretized Gaussian Mixture Likelihoods and Attention Modules [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Learned_Image_Compression_With_Discretized_Gaussian_Mixture_Likelihoods_and_Attention_CVPR_2020_paper.pdf)] [[code](https://github.com/JooyoungLeeETRI/CA_Entropy_Model)]
+* `SPL 2020` Variable rate deep image compression with modulated autoencoder [[Paper]](https://arxiv.org/pdf/1912.05526.pdf)
 * `ICCV 2019` Variable Rate Deep Image Compression With a Conditional Autoencoder [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Choi_Variable_Rate_Deep_Image_Compression_With_a_Conditional_Autoencoder_ICCV_2019_paper.html)
 * `NIPS 2018` Joint Autoregressive and Hierarchical Priors for Learned Image Compression [[Paper](https://proceedings.neurips.cc/paper/2018/file/53edebc543333dfbf7c5933af792c9c4-Paper.pdf)]
 * `ICLR 2018` Variational image compression with a scale hyperprior [[Paper]](https://openreview.net/forum?id=rkcQFMZRb) [[Code]](https://paperswithcode.com/paper/variational-image-compression-with-a-scale)
