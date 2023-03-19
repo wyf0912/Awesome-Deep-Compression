@@ -9,6 +9,7 @@ Collection of recent deep learning based compression works, e.g., image/video co
 ### Methods
 * `CVPR 2023` Raw Image Reconstruction with Learned Compact Metadata [[Paper](https://arxiv.org/pdf/2302.12995.pdf)]
 * `ICLR 2023` Multi-Rate VAE: Train Once, Get the Full Rate-Distortion Curve [[Paper](https://openreview.net/forum?id=OJ8aSjCaMNK)]
+* `CVPR 2022` The Devil Is in the Details: Window-Based Attention for Image Compression [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_The_Devil_Is_in_the_Details_Window-Based_Attention_for_Image_CVPR_2022_paper.html)]
 * `CVPR 2022` ELIC: Efficient Learned Image Compression With Unevenly Grouped Space-Channel Contextual Adaptive Coding [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/He_ELIC_Efficient_Learned_Image_Compression_With_Unevenly_Grouped_Space-Channel_Contextual_CVPR_2022_paper.html#:~:text=ELIC%3A%20Efficient%20Learned%20Image%20Compression%20With%20Unevenly%20Grouped%20Space%2DChannel%20Contextual%20Adaptive%20Coding)]
 * `ECCV 2022` Optimizing Image Compression via Joint Learning with Denoising [[Paper](https://arxiv.org/pdf/2207.10869.pdf)]
 * `ECCV 2022` Content Adaptive Latents and Decoder for Neural Image Compression [[Paper](https://arxiv.org/pdf/2212.10132.pdf)]
