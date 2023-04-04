@@ -51,3 +51,6 @@ Collection of recent deep learning based compression works, e.g., image/video co
 
 ## Awesome Library
 * `CompressAI` [[Page/Code](https://github.com/InterDigitalInc/CompressAI)]
+
+## Previous Paper List
+* `Image and Video Coding` [[github](https://github.com/flyywh/Image-compression-and-video-coding)], last updation 2018-Aug
