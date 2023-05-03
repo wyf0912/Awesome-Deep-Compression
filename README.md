@@ -8,6 +8,11 @@ Collection of recent deep learning based compression works, e.g., image/video co
 
 ### Methods
 * `CVPR 2023` Raw Image Reconstruction with Learned Compact Metadata [[Paper](https://arxiv.org/pdf/2302.12995.pdf)]
+* `CVPR 2023` Multi-Realism Image Compression with a Conditional Generator [[Paper](https://arxiv.org/pdf/2212.13824.pdf)]
+* `CVPR 2023` AccelIR: Task-aware Image Compression for Accelerating Neural Restoration [[Paper](https://arxiv.org/pdf/2304.12319.pdf)]
+* `CVPR 2023` Context-Based Trit-Plane Coding for Progressive Image Compression [[Paper](https://arxiv.org/pdf/2303.05715.pdf)]
+* `CVPR 2023` LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression [[Paper]()]
+* `CVPR 2023` Learned Image Compression with Mixed Transformer-CNN Architectures  [[Paper](https://arxiv.org/pdf/2303.14978.pdf)]
 * `ICLR 2023` Multi-Rate VAE: Train Once, Get the Full Rate-Distortion Curve [[Paper](https://openreview.net/forum?id=OJ8aSjCaMNK)]
 * `CVPR 2022` LC-FDNet: Learned Lossless Image Compression with Frequency Decomposition Network [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rhee_LC-FDNet_Learned_Lossless_Image_Compression_With_Frequency_Decomposition_Network_CVPR_2022_paper.pdf)]
 * `CVPR 2022` The Devil Is in the Details: Window-Based Attention for Image Compression [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_The_Devil_Is_in_the_Details_Window-Based_Attention_for_Image_CVPR_2022_paper.html)]
@@ -30,6 +35,10 @@ Collection of recent deep learning based compression works, e.g., image/video co
 * `ICLR 2018` Variational image compression with a scale hyperprior [[Paper]](https://openreview.net/forum?id=rkcQFMZRb) [[Code]](https://paperswithcode.com/paper/variational-image-compression-with-a-scale)
 
 ## Video Compression
+* `CVPR 2023` Hierarchical B-frame Video Compression Using Two-Layer CANF without Motion Coding [[Paper]()]
+* `CVPR 2023` Motion Information Propagation for Neural Video Compression [[Paper]()]
+* `CVPR 2023` Neural Video Compression with Diverse Contexts [[Paper]()]
+* `CVPR 2023` Video Compression with Entropy-Constrained Neural Representations [[Paper]()]
 * `ECCV 2022` Neural video compression using gans for detail synthesis and propagation [[Paper](https://arxiv.org/pdf/2107.12038.pdf)]
 * `CVPR 2022` LSVC: a learning-based stereo video compression framework [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_LSVC_A_Learning-Based_Stereo_Video_Compression_Framework_CVPR_2022_paper.pdf)]
 * `CVPR 2021` FVC: A new framework towards deep video compression in feature space [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_FVC_A_New_Framework_Towards_Deep_Video_Compression_in_Feature_CVPR_2021_paper.pdf)]
