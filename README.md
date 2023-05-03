@@ -21,6 +21,7 @@ Collection of recent deep learning based compression works, e.g., image/video co
 * `ECCV 2022` Content Adaptive Latents and Decoder for Neural Image Compression [[Paper](https://arxiv.org/pdf/2212.10132.pdf)]
 * `ACMMM 2022` High-Fidelity Variable-Rate Image Compression via Invertible Activation Transformation [[Paper]](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3503161.3547880)
 * `NIPS 2022` High-fidelity generative image compression [[Paper]](https://proceedings.neurips.cc/paper/2020/file/8a50bae297807da9e97722a0b3fd8f27-Paper.pdf) [[Code](https://hific.github.io/)]
+* `CVPR 2022` DPICT: Deep Progressive Image Compression Using Trit-Planes [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_DPICT_Deep_Progressive_Image_Compression_Using_Trit-Planes_CVPR_2022_paper.pdf)]
 * `CVPR 2022` Neural data-dependent transform for learned image compression [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Neural_Data-Dependent_Transform_for_Learned_Image_Compression_CVPR_2022_paper.pdf)]
 * `NIPS 2021` Lossy compression for lossless prediction [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/7535bbb91c8fde347ad861f293126633-Abstract.html) [[Code](github.com/YannDubs/lossyless)]
 * `ICCV 2021` Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Variable-Rate_Deep_Image_Compression_Through_Spatially-Adaptive_Feature_Transform_ICCV_2021_paper.pdf)
