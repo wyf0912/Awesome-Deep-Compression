@@ -56,7 +56,8 @@ Awesome-Deep-Compression### Survey
 * `CVPR 2019` Dvc: An end-to-end deep video compression framework [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_DVC_An_End-To-End_Deep_Video_Compression_Framework_CVPR_2019_paper.pdf)]
 * `CVPR 2019` Learning Image and Video Compression through Spatial-Temporal Energy Compaction [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Learning_Image_and_Video_Compression_Through_Spatial-Temporal_Energy_Compaction_CVPR_2019_paper.pdf)]
 * `IJCV 2019` Video Enhancement with Task-Oriented Flow [[Paper](https://arxiv.org/pdf/1711.09078.pdf)]
-
+### Based on Super Resolution
+* `CPVR 2022` Super-Resolution Based Video Coding Scheme [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/html/Cho_Super-Resolution_Based_Video_Coding_Scheme_CVPRW_2022_paper.html)]
 ## Security
 * `CVPR 2023` Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger [[Paper](https://arxiv.org/pdf/2302.14677.pdf)]
 * `Arxiv` Towards Robust Neural Image Compression: Adversarial Attack and Model Finetuning [[Paper](https://arxiv.org/pdf/2112.08691.pdf)]
