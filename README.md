@@ -2,7 +2,7 @@
 Collection of recent deep learning based compression works, e.g., image/video compression. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis, feel free to contact me to add... :thumbsup:
 
 ## Image Compression
-Awesome-Deep-Compression### Survey
+### Survey
 * `Signal Processing 2022` Deep Architectures for Image Compression: A Critical Review [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168421003832)]
 * `TPAMI 2021` Learning end-to-end lossy image compression: A benchmark [[Paper](https://arxiv.org/pdf/2002.03711.pdf)]
 
