@@ -7,6 +7,8 @@ Awesome-Deep-Compression### Survey
 * `TPAMI 2021` Learning end-to-end lossy image compression: A benchmark [[Paper](https://arxiv.org/pdf/2002.03711.pdf)]
 
 ### Methods
+* `ICML 2024` Compress Clean Signal from Noisy Raw Image: A Self-Supervised Approach
+* `IJCV 2024` Beyond Learned Metadata-based Raw Image Reconstruction
 * `CVPR 2023` Raw Image Reconstruction with Learned Compact Metadata [[Paper](https://arxiv.org/pdf/2302.12995.pdf)]
 * `CVPR 2023` Multi-Realism Image Compression with a Conditional Generator [[Paper](https://arxiv.org/pdf/2212.13824.pdf)]
 * `CVPR 2023` AccelIR: Task-aware Image Compression for Accelerating Neural Restoration [[Paper](https://arxiv.org/pdf/2304.12319.pdf)]
@@ -56,6 +58,12 @@ Awesome-Deep-Compression### Survey
 * `CVPR 2019` Dvc: An end-to-end deep video compression framework [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_DVC_An_End-To-End_Deep_Video_Compression_Framework_CVPR_2019_paper.pdf)]
 * `CVPR 2019` Learning Image and Video Compression through Spatial-Temporal Energy Compaction [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Learning_Image_and_Video_Compression_Through_Spatial-Temporal_Energy_Compaction_CVPR_2019_paper.pdf)]
 * `IJCV 2019` Video Enhancement with Task-Oriented Flow [[Paper](https://arxiv.org/pdf/1711.09078.pdf)]
+
+## 3D Scene compression
+* `CVPR 2024` Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis [[Paper](https://arxiv.org/pdf/2401.02436)]
+* `CVPR 2024` Compact 3D Gaussian Representation for Radiance Field [[Paper](https://arxiv.org/abs/2311.13681)]
+* `ECCV 2022` TensoRF: Tensorial Radiance Fields [[Paper](https://arxiv.org/pdf/2203.09517)]
+
 
 ## Security
 * `CVPR 2023` Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger [[Paper](https://arxiv.org/pdf/2302.14677.pdf)]
