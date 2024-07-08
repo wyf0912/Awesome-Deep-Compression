@@ -60,6 +60,8 @@ Collection of recent deep learning based compression works, e.g., image/video co
 * `IJCV 2019` Video Enhancement with Task-Oriented Flow [[Paper](https://arxiv.org/pdf/1711.09078.pdf)]
 
 ## 3D Scene compression
+* `Arxiv 2024` ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model [[Paper](https://arxiv.org/abs/2405.20721)]
+* `ECCV 2024` HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression [[Paper](https://arxiv.org/pdf/2403.14530)]
 * `CVPR 2024` Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis [[Paper](https://arxiv.org/pdf/2401.02436)]
 * `CVPR 2024` Compact 3D Gaussian Representation for Radiance Field [[Paper](https://arxiv.org/abs/2311.13681)]
 * `ECCV 2022` TensoRF: Tensorial Radiance Fields [[Paper](https://arxiv.org/pdf/2203.09517)]
